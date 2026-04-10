@@ -102,5 +102,3 @@ Check individual modules for licensing information.
 For issues or questions, refer to the documentation in each module's README.
 
 ---
-
-**Last Updated:** April 2026
